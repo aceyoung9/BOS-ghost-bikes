@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-71.102691, 42.343289] },
+      "properties": {
+        "Name": "Paula Sharaga",
+        "Died": "2019-02-15",
+        "marker-symbol": "bicycle",
+        "marker-color": "#333",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-71.107052, 42.381476] },
+      "properties": {
+        "Name": "Jean Leonard",
+        "Died": "2016-08-28",
+        "marker-symbol": "bicycle",
+        "marker-color": "#333",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-71.101619, 42.373882] },
+      "properties": {
+        "Name": "Amanda Phillips",
+        "Died": "2016-06-23",
+        "marker-symbol": "bicycle",
+        "marker-color": "#333",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-71.089508, 42.350852] },
+      "properties": {
+        "Name": "Anita Kurmann",
+        "Died": "2015-08-07",
+        "marker-symbol": "bicycle",
+        "marker-color": "#333",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-71.090718, 42.339766] },
+      "properties": {
+        "Name": "Gordon Riker",
+        "Died": "2007-04-04",
+        "Notes": "Bike was removed by Northeastern University Facilities in late 2007",
+        "marker-symbol": "bicycle",
+        "marker-color": "#BCB8B1",
+        "marker-size": "large"
+      }
+    }
+  ]
+}
