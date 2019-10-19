@@ -47,6 +47,17 @@
     },
     {
       "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-71.075336, 42.383385] },
+      "properties": {
+        "Name": "Owen McGrory",
+        "Died": "2014-04-03",
+        "marker-symbol": "bicycle",
+        "marker-color": "#333",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-71.090718, 42.339766] },
       "properties": {
         "Name": "Gordon Riker",
