@@ -6,7 +6,7 @@ Because http://ghostbikes.org/boston doesn't update outside the NYC area anymore
 
 ## ⚠️ Under Construction ⚠️
 
-[A More Complete List on Google Sheets](https://docs.google.com/spreadsheets/d/1pGq66LGS2skW9Wp3NaWQSg74mQLAbn7HP2-5VCWD_80/edit?fbclid=IwY2xjawIq1FtleHRuA2FlbQIxMAABHXt0g2mGp1xaFCCxAROmSQ-bEoPWoHeBk0FIdYs3uARaVz-J3l99xBiLBQ_aem_eyn8KFe4jqBHkg86Ev5D9g&gid=0#gid=0)
+[A More Complete List on Google Sheets](https://docs.google.com/spreadsheets/d/1pGq66LGS2skW9Wp3NaWQSg74mQLAbn7HP2-5VCWD_80/edit?gid=0#gid=0)
 
 Reasoning for moving the data into Google Sheets.
 
